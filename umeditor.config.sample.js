@@ -20,7 +20,7 @@
      * window.UMEDITOR_HOME_URL = "/xxxx/xxxx/";
      */
 
-    var DOMAIN = ""; // UPYUN 域名配置，默认域名，如：http://空间名.b0.upaiyun.com/ 或绑定域名，如：http://xxxx.xxxx.xxxx/
+    var DOMAIN = ""; // UPYUN 域名配置，默认域名，如：http://服务名称.b0.upaiyun.com/ 或绑定域名，如：http://xxxx.xxxx.xxxx/
 
     var URL = window.UMEDITOR_HOME_URL || (function(){
 
